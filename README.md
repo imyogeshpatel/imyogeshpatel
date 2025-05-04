@@ -1,3 +1,5 @@
+<img align="right" alt="Coding" width="400" src="(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207">
+
 <h1 align="center">Hi 👋, I'm Yogesh Patel</h1>
 <h3 align="center">Passionate Computer Science graduate with expertise in MERN stack development, UI/UX design, and graphic design. Leveraging a versatile skill set in both development and design, I excel at reducing gaps between technical and creative teams</h3>
 
