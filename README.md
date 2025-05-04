@@ -1,5 +1,5 @@
 <h1>MERN Stack Development | Graphic Design | UI/UX Design</h1>
-<p>Passionate Computer Science graduate with expertise in MERN stack development, UI/UX design, and graphic design. Leveraging a versatile skill set in both development and design, I excel at reducing gaps between technical and creative teams</p>
+<p>Passionate Computer Science graduate with expertise in MERN stack development, UI/UX design, and graphic design. Leveraging a versatile skill set in both development and design, I excel at reducing gaps between technical and creative teams.</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
